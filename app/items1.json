@@ -1,0 +1,186 @@
+{
+    "The outfit": {
+        "Description" : "The Cyberpunk future is mobile. Like the cowboys of the Old West, most people carry their lives on their backs-miniatur­ized sleeping, eating and entertainment components crammed into carryalls and the back seats of cars. The stuff you carry around is known in str.eetslang as your outfit. A typical outfit might include: lnflatable bed (folds to a 6\"x6\" package for easy storage).,Compressable down sleep-bag (wads to the size of a paperback book).,Micro-stereo com po (a microsized boom box with stereo speakers or headphones, possibly CD, chip/tape player, TV and certainly radio).,Handful of tapes or datachips.,Laptop or pocket computer (for notes, writing, business, links to computer net­works).,Cybermodem, cables (for Netrunners).,Pocket Cellular phone (the phone isbought, the service is rented by themonth).,Handgun, knife or both. Possibly an as­sault rifle or SMG, and a couple backups as well. Always extra ammo.,Body armor (usually an armor jacket or bullet-proof T-shirt).,Persona I things, like clothes, toothbrushes, etc. Most of this is crammed into a shoulderbag or duffle sack. Most Cyberpunk characters aren't much for settling down. Rockerboys always have the next gig. Solos have to keep moving-the next job requires it, and you keep moving anyway before your enemies figure out where you're sleeping these days. Cops, Netrunners, Medias and Techies are always on the move-on stake­outs, hard stories, or running from the various people you've brought down on yourself with your netrun­ning. Nomads­well, they don't have homes to start with, and what good is it if you can't cram it on the back of your bike any­ way? Even a Corporale may find himself living out of a \"coffin\" in the Tokyo airport if times get rough. The point is, a computer society makes it easy for people to live like campers all the time. Why should you have to go home to listen to your favorite music when you can carry your CD player with you? Missing phone calls and hate answering machines? You carry your phone with you and plug into the cellular network; making your business calls on the run from your favorite restaurant or while driving your car. Why bother with cooking when you can grab something quick from a hundred fast faod stores?Why keep clothes when you can use them till they wear out, then buy new ones? You'II rent a sleeping cube far the night, put up your persona! stuff, and blow out in the morning. Remember: THE FUTURE IS DISPOSABLE The key to any Cyberpunk game is thinking Cyberpunk. Think rootless and mobile. You don't know where you're sleeping tonight, and you don't care. You've got a bed in your bag, some tunes in your pocket, some cash far faod. And a gun to make sure no one takes anything away from you. ",
+        "Starting Funds": "So how much do you start with? Well, that depends on your job. A job? Yeah, even in the Dark Future, ya gotta pay the bills, chombatta. And you want a job, because it's a real short slip between being able to eat Realpack andfresh veggies, and being reduced to eating kibble and living in a filthy flop-cube. How good a job you currently have is based on the level of your Special Abil­ity. Far example, a Rocker with a Charismatic Leader-ship of 2 isn't gonna draw crowds like Kerry Eurodyne (a hot megarocker). This means he'II be reduced to playing gigs wherever he can get them; sleazoid dives, bar-mitz­vahs, weddings, bar fights; you name it. Take a quick jump to the Occupation Table on page 58. Find your Role (or the role closest to it), cross reference it to your current Special Ability level, and that'II give you a monthly salary. Multiplythis amount by a 1 D6/3 to determine the number of months you've currently been employed, and that gives you the total amount of cash your character starts with. Exactly how you earn your euro is up to you; the categories are deliberately vague to give you plenty of roleplaying room. Maybe as \"Level 7\" Solo, you don't want to work for a Corporation; no problem. lt's only a generai description of where you fit on the Solo hierarchy. For ali we know, you work on an extraction team for Amnesty lnternational. One last thing. Roll one more D6. lf you roll higher than a four, you just got unem­ployed. Congratulations. Betcha can taste that kibble already. ",
+        "Encumbrance": {
+            "Type": "table",
+            "Description": "In most cases, encumbrance isn't a big problem for a Cyberpunk character-he's going to keep the majority of hisgearin hisapartmentorhiscar. ACyberpunk charactercan carry around as much in kilograms as the number of points invested in his &xiy T ype stat , multiplied by 1 O. He can deadlift 40 times his Body Type stat. Example: I have spent 6 points to get an Average Body Type. I can carry up to 60 kilograms; roughly 1 32 lbs. I can dead/ift 240 kg-about 528 lbs. Rather than list exact weights of everyth ing you could possibly want to carry, we have arranged a simpler system of classification. The following weight groups are more useful to the Referee who must make a generai determination of how much a player can carry. ",
+            "0.5 kilos or less ": "1 box of ammo • cellular phone • persona I stereo• pocket computer • cybermodem • interface cables • pocket TV• Digitai cam­era • Small recorder • flashlight • binocu­lars • Swiss Army knife • article of clothing fighting knife • switchblade • mirror­shades • Light pistol • nylon carrybag • Kevlar helmet.",
+            "1 Kilo or less ": "Medium to Heavy handgun • sleeping bag radio/chip player •video camera • toolkit medical kit • laptop computer • armar vest/T-shirt.",
+            "3 Kilos ": "Submachine gun • Very Heavy Pistol • electric guitar • drum synthesizer • inflatable bed • Light to Medium assault rifle • Shotgun • Armor jacket• Kevlar flack pants or vest. ",
+            "4 Kilos ": "Electric keyboard • amplifier • Heavy assault rifle. "
+        },
+        "Weapons": {
+            "Description": "The first thing your cyberpunk is gonna want is some weapons (weapons can get you out of a bad situation a lot faster than a great stereo). Cyberpunk weapons break into seven types: ",
+            "Types": {
+                "Type": "table",
+                "Pistols (P)": "Any type of single shot (or semiautomatic) weapon which may be accurately fired with one hand. ",
+                "Submachineguns (SMG)": "Any type of weapon which may fire either automatically or semi automatically, using only pistol ammuni­tion. ",
+                "Shotguns (SHG)": "Any weapon which fires pellets or other small particles instead of a solid slug. ",
+                "Rifles (RIF)": "Include assault rifles, carbines, and fully automatic rifles. These weapons always fire rifle type ammunition. ",
+                "Heavy Weapons (HVY)": "Include missiles, grenades, heavy cannon, etc. ",
+                "Melee Weapons (MELEE)": "Include swords, daggers, knives, martial arts weapons, polearms, etc. ",
+                "Exotic Weapons (EX)": "These are bows, lasers, flechette pistols, airguns and microwave weapons the real \"sci-ti\" weapons of the Cyberpunk universe. "
+            },
+            "Weapon codes": {
+                "Description": "Each weapon is represented by certain characteristics, such as its type, damage, range, accuracy, concealability, availability and cost. These factors are recorded as a weapon code - a profile of the weapon in arder of: Name • Type • Accuracy • Concealability Availability • Damage/ Ammunition • Number of Shots • Rate of Fire • Reliability ",
+                "Accuracy": "This is how good the weapon really is. Weapons are rated from -3 to +3 on accuracy, with O being an average level of accuracy. ",
+                "Concealability": "How easily they can be hidden until needed (an important factor in combat weapons). A smart combat gun­ner doesn't want to walk into a bar with a shotgun protruding from underneath his coat it's going to cause trouble. He also needs to be able to carry \"holdouts\" in the event of capture or disarmament. \nPocket, Pants Leg or Sleeve (P) \nJacket, Coat or Shoulder Rig  (I)\nLong Coat  (L)\nCan't be Hidden  (N)",
+                "Availability": "This is how difficult the weapon is to find on the open market. \nExcellent  (E) \nCan be found almost anywhere \nCommon  (C) \nCan be found in most sports &. gun stores or on the Street\nPoor  (P) \nSpecialty weapons, black market, stolen military\nRare  (R) \nStolen, one of a kind, special military issue, may be highly illegal.",
+                "Damage/ Ammunition": "Each weapon is rated as to the type of ammunition it carries, and the damage of that ammuni­tion (in numbers of dice thrown). ",
+                "Number of Shots": "This is how many shots are held in the standard clip, magazine or quiver tor the weapon type. ",
+                "Rate of Fire": "This is how many shots the weapon can fire in a single combat round (3.2 seconds). ",
+                "Reliability": "This is how reliable the weapon is in combat-its chance of jamming while on autofire, etc. \nVery Reliable  (VR)\nStandard  (ST)\nUnreliable  (UR) "
+            },
+            "Weapon List": {
+                "Type": "weapon",
+                "Light Autopistols": {
+                    "BudgetArms C-13": ["P", -1, "P", "E", "1 D6(5mm)", 8, 2, "ST", "5Om", 75, "A light duty autopistol used as a hold­out and \"lady's gun\". "]
+                },
+                "Medium Autopistols": {
+                    "Militech Arms Avenger": ["P", 0, "J", "E", "2D6+1(9mm)", 10, 2, "VR", "50m", 250, "Awell-made autopistol with good range and accuracy. A professional's gun. "]
+                },
+                "Heavy Autopistols": {
+                    "BudgetArms Auto 3": ["P", -1, "J", "E", "3D6(11 mm) ", 8, 2, "UR", "50m", 350, "lt's cheap. lt's powerful. lt blows up sometimes. What else do you want? "]
+                },
+                "Very Heavy Autopistols": {
+                    "Armalite 44": ["P", 0, "J", "E", "4D6+1(12mm)", 8, 1, "ST", "50m", 450, "Designed as an alternate to the 1998 U.S. Army sidearm trials. A solid con­tender. " ]
+                },
+                "Light Submachineguns": {
+                    "Uzi Miniauto 9": ["SMG", 1, "J", "E", "2D6+ 1 (9mm) ", 30, 35, "VR", "150m", 475, "Uzi's entry into the 21 st century, all plastic, with a rotary electric clip and adjustable trigger. The choice for many security Solos. "]
+                },
+                "Medium Submachinegun": {
+                    "Arasaka Minami 10": ["SMG", 0, "J", "E", "2D6+ 3 (10mm)", 40, 20, "VR", "200m", 500, "The standard Arasaka Security weapon,, foundworldwide.Agood, all roundweapon. "]
+                },
+                "Heavy Submachinegun": {
+                    "Sternmeyer SMG 21 ": ["SMG", -1, "L", "E", "3D6(11 mm)", 30, 15, "VR", "200m", 500, "Sternmeyer's best entry in the anti­terrorist category, with wide use on C­SWAT teams and PsychoSquads. "]
+                },
+                "Assualt Rifle": {
+                    "Militech Ronin Light Assault": ["RIF", 1, "N", "C", "5D6(5.56)", 35, 30, "VR", "400m", 450, "A light, all purpose update, similar to the M-l 6B. "]
+                },
+                "Shoutguns": {
+                    "Arasaka Rapid Assault 12": ["SHT", -1, "N", "C", "4D6(00)", 20, 10, "ST", "50m", 900, "A high powered auto-shotgun with lethal firepower. Used by Arasaka worldwide. Another good reason to avoid the Boys in Black. "]
+                },
+                "Heavy Weapons": {
+                    "Barrett-Arasaka Light 20mm": ["HVY", 0, "N", "R", "4D10AP(20/9mm)", 10, 1, "VR", "450m", 2000, "The cyberpsycho hunter's favorite. Almost 2 meters long, this \"cannon\" fires a depleted uranium shell at supersonic speeds. Heavy AP sub-caliber penetrator damages armar 2pts/hit. "]
+                },
+                "Exotics": {
+                    "Techtronica 15 Microwaver": ["P", 0, "J", "P", "1D6", 10, 2, "VR", "20m", 400, "Flashlight sized microwave projector. See FNFF, pg. 108 for details. "]
+                },
+                "Melee Weapons": {
+                    "Kendachi Monoknife": ["Melee", 1, "P", "2D6", "-", "-", "VR", "1m", 200, "Mono-sectional crystal biade. lncredi­bly sharp. In the Japanese \"tanto\" style. Also available in a naginata form for 100  extra. "]
+                },
+                "Old Guns Never Die": {
+                    "S&W Combat Magnum ": ["P", 1, "J", "C", "2D6+3(.357)", 6, 2, "VR", "Designed for US Border Patrol use, the Combat Magnum is a popular choice among police officers. lts \"small frame\" and reliable action make it a best seller. "],
+                    "Llama Commanche ": ["P", 0, "J", "C", "4D6(.44)", 6, 1, "ST", "An excellent .44 revolver, used in home defense and police work. lt's long barre! makes it hard to conceal. "],
+                    "Colt .45 \"Peacemaker\"": ["P", 0, "J", "R", "206+2(.45)", 6, "VR", "The gun \"that won the West\", the .45 was the most common US sidearm throughout the 1800's. A single action weapon, it must be cocked before firing, although later models had a ffattened hammer allowing the gun to be fired by \"fanning\" the hammer." ]
+                }
+            },
+            "Reloads and options": {
+                "Description": "Armor piercing=3x cast Brass Cased loads for old guns=2*cost *Drugs, Acid =5* cost",
+                "Ammo": {
+                    "Type": "Ammo",
+                    "Light Pistol, Lt. SMG (box of 100)": 15,
+                    "Medium Autopistol, SMG (box of 50)": 15,
+                    "Heavy Pistol, Hvy. SMG (box of 50)": 18,
+                    "Very Heavy Pistol (box of 50) ": 20,
+                    "Assault Rifle (box 100) ": 40,
+                    "Shotgun (box of 12)": 15,
+                    "20mm Cannon round (1) ": 25,
+                    "Arrows (12) ": 24,
+                    "Crossbow Bolts (12)": 30,
+                    "Airgun pellets (100)": 6,
+                    "Needlegun rounds (50)": 25,
+                    "Flamethrower Reload": 50,
+                    "Micro Missile Reload (4ea)": 100
+                },
+                "Options": {
+                    "Type": "weaponOptions",
+                    "Silencer ": 100,
+                    "Holster (all types)": 20,
+                    "Shoulder sling ": 5
+                }
+            }
+        },
+        "Armors": {
+            "Description": "This is the next most important puchase for the well-dressed punk. Most armors in the 2000's are made of epoxide laminates, plastic mesh weaves and thin metal or ceramic insert plates. They are light, but often bulky; each one has an Encumber­ance Value (EV) which is subtracted from your character's REF, and a Stopping Power (SP), which refers to the ability of the armor to stop damage. The Stopping Power is subtracted from the amount of damage done by the hit. Armor includes: ",
+            "Types": {
+                "Heavy leather (Jacket or Pants) SP=4 ": "Good tor road rash, stopping knives, etc. A good . 38 slug will probably rip you to bits, however. ",
+                "Kevlar T-Shirt/Vest SP=10": "Can be worn unnoticably under most street clothes. Will stop most rounds up to a .45 ACP",
+                "Kevlar Armor Jacket SP=14 (Lt), 18 (Med) or 20 (Hvy)": "Personal protection for the fashion conscious, these li ghtweight Kevlar jackets have nylon coverings that resemble normai jackets. ",
+                "Helmet SP= 14 (steel) or 20 (nylon) ": "Heavy duty protection for the head, standard for most military. Some are made of steel, others of kevlar and high impact plastics. Most (90%)have tace shields with 1 /2 the SP leve! as the rest of the helmet. ",
+                "Flack Vest/Pants SP=20 ": "Standard protection for combat soldiers, the flack vest is designed to stop small arms fire, grenade shrapnel, but only slow up assault r1fle rounds. ",
+                "Doorgunner's Vest SP=25 ": "Heavy duty protection for stationary positions, like machinegun nests, helicopter doors, etc.",
+                "MetalGear SP=25 ": "Laminateci expoxide plate armor. Bulky and designed in modular sections, with helmet, arrn & leg coverings, torso and back clamshell. "
+            },
+            "Armor List": {
+                "Type": "armor",
+                "Cloth, leather": ["Arms, Torso, possibly legs ", 0, 0, "Varies"],
+                "Heavy leather ": ["Arms, Torso, possibly legs ", 4, 0, 50],
+                "Kevlar T-Shirt, Vest": ["Torso", 10, 0, 90],
+                "Steel helmet ": ["Head", 14, 0, 20],
+                "Light Armor jacket": ["Torso, Arms", 14, 0, 150],
+                "Med Armor jacked ": ["Torso, Arms", 18, 1, 200],
+                "Flack vest ": ["Torso", 20, 1, 200],
+                "Flack pants ": ["Legs", 20, 1, 200],
+                "Nylon helmet ": ["Head", 20, 0, 100],
+                "Heavy Armor jacket ": ["Torso, Arms", 20, 2, 250],
+                "Door Gunner's vest":["Torso", 25, 3, 250],
+                "MetalGear": ["Whole body", 25, 2, 600]
+            }
+        },
+        "Special Equipment": {
+            "Fashion": {
+                "Type": "specialEquip",
+                "Generic Chic": [20, "This is the standard Streetwear, made up of colorful modular component5 in many colors. Bell5, coats, sashes, boots predominate. "]
+            },
+            "Tools ": {
+                "Type": "specialEquip",
+                "Techscanner": [600, "A small handheld microcomp with various 1/0 connecters and probes. Techscanners run diagnostic programs, identify and examine malfunctioning components, and d11play internal schematics on a small screen. "]
+            },
+            "Personal Electronics ": {
+                "Type": "specialEquip",
+                "Holo Generator": [500, "Small box (approx. 4x2x6 inches) projects a holographic picture from a replacable chip. Generato, is compatible with chips from most digitai cameras. Can be linked with a di9ital Recorder/Player. "]
+            },
+            "Data Systems ": {
+                "Type": "specialEquip",
+                "Laptop Computer": [900, "The common portable, with internal hard drive, video board (detachable), and slots for data/ programming chips. These units do not have the advanced CPUs and memory spaces available in a regular computer system; they cannot be used for Netrunning. "]
+            },
+            "Communications ": {
+                "Type": "specialEquip",
+                "Mastoid Comma": [100, "All commos are radio transceivers. This one is glued to the jaw and tempie; you send via subvocalization and receive with soundless vibrations. Range 10 miles. "]
+            },
+            "Surveillance ": {
+                "Type": "specialEquip",
+                "Binoglasses": [200, "These high-tech vision aids combine binocular effects with a laser rangefinder, and sometimes IR lenses. More expensive versions will have a digitai camera built in. "]
+            },
+            "Security": {
+                "Type": "specialEquip",
+                "Cardlock Decryptor": [100, "The probe of this device is inserted into a card lock instead of the normai card. A Decryptor operates by adding +5 to your basis'. TECH+Electronic Security+ 1D10 skill check against the lock"]
+            },
+            "Medical" : {
+                "Type": "specialEquip",
+                "Dermal Stapler": [1000, "This automaticaliy pulls the sides of a wound together and sutures it with staples of a compressed organic materiai that dissolves alter an elapsed time."]
+            },
+            "Furnishings ": {
+                "Type": "specialEquip",
+                "Nylon Carrybag": [5, "The athletic bag/kitbag of the 2000's, with a variety of logos to choose !rom. Sizes vary. "]
+            },
+            "Vehicles ": {
+                "Type": "specialEquip",
+                "Scooter": [500, "This is an updated, electrically powered version of the old Riva and Vespa motorscooters of the 1990's. Top speed about 50 mph, scooters can getabout 6 hours.of trave I per fastcharge (about 5 minutes at any serv,ce station). "]
+            },
+            "Lifestyle ": {
+                "Type": "specialEquip",
+                "Data Term™": ["1 per minute", "This is a curbside computer terminal, with access to news, weather, city maps, events schedules and other useful stufi. A DataTerm can also be used as a plug-in point to the Net. Terms are mounted in concrete pillars and are nearly indestructable. Theoretically. "]
+            },
+            "Groceries ": {
+                "Kibble": ["50 per week", "A mass-produced nutrient that satisfies most requirements lor sustenance, but tends to look, smell, and taste like the dry pet food it takes its name from. "]
+            },
+            "Housing": {
+                "Type": "specialEquip",
+                "Coffin": ["20 per night", "One step up from a sleeping bag on the street. A stacked accomodation which resembles its namesake, these sleeping boxes arefound in airports and flophouses worldwide. Usually coin-operated with a time limit, the coffin gives you just enough room to turn around or read ,n bed; restroom accomodations to be found elsewhere. More expens,ve models will have a phone or mini-TV inside. "]
+            }
+        }
+    }
+}
